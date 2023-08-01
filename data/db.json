@@ -1,0 +1,146 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Produto XYZ",
+      "price": 60,
+      "category": "Star Wars",
+      "image": "https://images.unsplash.com/photo-1620138694717-07141b500f57?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=435&q=80"
+    },
+    {
+      "id": 2,
+      "name": "Produto XYZ",
+      "price": 60,
+      "category": "Star Wars",
+      "image": "https://images.unsplash.com/photo-1620950127852-92592960e363?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=435&q=80"
+    },
+    {
+      "id": 3,
+      "name": "Produto XYZ",
+      "price": 60,
+      "category": "Star Wars",
+      "image": "https://images.unsplash.com/photo-1599002762948-19068b069803?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=822&q=80"
+    },
+    {
+      "id": 4,
+      "name": "Produto XYZ",
+      "price": 60,
+      "category": "Star Wars",
+      "image": "https://images.unsplash.com/photo-1599719500956-d158a26ab3ee?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=871&q=80"
+    },
+    {
+      "id": 5,
+      "name": "Produto XYZ",
+      "price": 60,
+      "category": "Star Wars",
+      "image": "https://images.unsplash.com/photo-1601814933824-fd0b574dd592?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=812&q=80"
+    },
+    {
+      "id": 6,
+      "name": "Produto XYZ",
+      "price": 60,
+      "category": "Star Wars",
+      "image": "https://images.unsplash.com/photo-1591927675938-b81b071d3e91?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80"
+    },
+    {
+      "id": 7,
+      "name": "Controle XYZ",
+      "price": 60,
+      "category": "Consoles",
+      "image": "https://xplorenollywood.com/wp-content/uploads/2022/07/alex-motoc-0POwK6iAiRQ-unsplash.png"
+    },
+    {
+      "id": 8,
+      "name": "Controle e console XYZ",
+      "price": 60,
+      "category": "Consoles",
+      "image": "https://images.unsplash.com/photo-1607853202273-797f1c22a38e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=327&q=80"
+    },
+    {
+      "id": 9,
+      "name": "Controle XYZ",
+      "price": 60,
+      "category": "Consoles",
+      "image": "https://images.unsplash.com/photo-1533702165324-66678e2069b2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80"
+    },
+    {
+      "id": 10,
+      "name": "Controle XYZ",
+      "price": 60,
+      "category": "Consoles",
+      "image": "https://images.unsplash.com/photo-1617096200347-cb04ae810b1d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80"
+    },
+    {
+      "id": 11,
+      "name": "Controle XYZ",
+      "price": 60,
+      "category": "Consoles",
+      "image": "https://images.unsplash.com/photo-1621259182181-1ccb9ec306cd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=912&q=80"
+    },
+    {
+      "id": 12,
+      "name": "Game Boy Color",
+      "price": 60,
+      "category": "Consoles",
+      "image": "https://images.unsplash.com/photo-1577583113753-ca7e95d1bdc6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80"
+    },
+    {
+      "id": 13,
+      "name": "Camisa Atari",
+      "price": 60,
+      "category": "Diversos",
+      "image": "https://images.unsplash.com/photo-1589021818993-a1223f8f0f04?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=745&q=80"
+    },
+    {
+      "id": 14,
+      "name": "Camisa SNES",
+      "price": 60,
+      "category": "Diversos",
+      "image": "https://images.unsplash.com/photo-1554410637-1a8267402b57?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80"
+    },
+    {
+      "id": 15,
+      "name": "Controle e console XYZ",
+      "price": 60,
+      "category": "Diversos",
+      "image": "https://images.unsplash.com/photo-1550747545-c896b5f89ff7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=867&q=80"
+    },
+    {
+      "id": 16,
+      "name": "Controle e console XYZ",
+      "price": 60,
+      "category": "Diversos",
+      "image": "https://images.unsplash.com/photo-1611946258523-9c2bfabb94e3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=771&q=80"
+    },
+    {
+      "id": 17,
+      "name": "Controle e console XYZ",
+      "price": 60,
+      "category": "Diversos",
+      "image": "https://images.unsplash.com/photo-1535223289827-42f1e9919769?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80"
+    },
+    {
+      "name": "Controle e console XYZ",
+      "price": 60,
+      "category": "Diversos",
+      "image": "https://images.unsplash.com/photo-1609372332255-611485350f25?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
+      "id": 18
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Marcos",
+      "email": "marcos@gmail.com",
+      "password": "12345678",
+      "admin": "true"
+    },
+    {
+      "id": 2,
+      "name": "Allan",
+      "email": "marcos@outlook.com",
+      "password": "12345678",
+      "admin": "false"
+    }
+  ]
+}
